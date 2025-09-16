@@ -48,7 +48,7 @@ Email:nishi.20243187@mnnit.ac.in
 Nitin Pandey(@Nitin-s342)
 Email:nitin.20243532@mnnit.ac.in
 
-Rajat Gupta(@)
+Rajat Kumar Gupta(@rajat4999)
 Email:rajat.20243229@mnnit.ac.in
 
 Nishit Prajapati(@Nishit-Prajapati2006)
@@ -61,6 +61,7 @@ Pravesh Bind(@)
 Email:pravesh.20243217@mnnit.ac.in
 
 ### <h3 align="center">🙏 Thank you for checking out GramShayak!</h3>
+
 
 
 
